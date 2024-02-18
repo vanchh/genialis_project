@@ -5,6 +5,9 @@ Genialis Expressions data repository.
 
 ## Installation
 
+*(Note: your system should have a Python version>=3.8 and should be added to system PATH. 
+Alternatively, virtual environment can be used).*
+
 In root folder of this project run the bellow command, which will create a **progeny** package:
 
 ``` pip install -e . ```
@@ -17,6 +20,8 @@ To get help, run:
 ``` 
 progeny -h 
 ```
+
+The first time you run the command, it might take a bit longer to process.
 
 To get PROGENy scores for a selected dataset, you have to specify a valid collection name, for example:
 
