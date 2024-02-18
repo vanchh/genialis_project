@@ -4,3 +4,4 @@ pandas
 setuptools
 numpy
 omnipath
+tabulate
